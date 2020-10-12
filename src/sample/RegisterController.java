@@ -64,8 +64,6 @@ public class RegisterController implements Initializable {
         Platform.exit();
     }
 
-
-
     public void registerUser() {
         Connection connect = null;
         Statement statement = null;

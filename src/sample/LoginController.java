@@ -42,11 +42,11 @@ public class LoginController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle){
 
-        File brandingFile = new File("Images/Friendship.gif");
+        File brandingFile = new File("Images/Profile pic.gif");
         Image brandingImage = new Image(brandingFile.toURI().toString());
         brandingImageView.setImage(brandingImage);
 
-        File logoFile = new File("Images/Image2-01.png");
+        File logoFile = new File("Images/Logo-01.png");
         Image logoImage = new Image(logoFile.toURI().toString());
         logoImageView.setImage(logoImage);
 

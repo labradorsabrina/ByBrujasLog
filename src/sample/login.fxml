@@ -17,12 +17,12 @@
          <children>
             <ImageView fx:id="brandingImageView" fitHeight="225.0" fitWidth="238.0" layoutX="4.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../Images/Friendship.gif" />
+                  <Image url="@../../Images/Profile%20pic.gif" />
                </image>
             </ImageView>
             <ImageView fx:id="logoImageView" fitHeight="175.0" fitWidth="220.0" layoutX="9.0" layoutY="206.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../Images/Image2-01.png" />
+                  <Image url="@../../Images/Logo-01.png" />
                </image>
             </ImageView>
          </children>
